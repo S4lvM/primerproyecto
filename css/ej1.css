@@ -1,0 +1,18 @@
+
+body {
+    color: blue;
+    background-color: rgb(197, 254, 193);
+    font-family: "Times New Roman", Times, serif;
+}
+  
+em {
+    color: white;
+    background-color: black;
+}
+  
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+    width: 500px;
+}
+  
